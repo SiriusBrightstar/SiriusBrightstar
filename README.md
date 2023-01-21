@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SiriusBrightstar</h1>
 <h3 align="center">IoT, Embedded, Linux, Crypto and anything tech</h3>
 
-- 🌱 I’m currently learning **ESP-IDF, Docker**
+- 🌱 I’m currently learning **ESP-IDF, Docker, Embedded Linux**
 
 - 📫 How to reach me **siriusbrightstar@protonmail.com**
 
