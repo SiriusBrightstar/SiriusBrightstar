@@ -3,14 +3,12 @@
 
 - 🌱 I’m currently learning **ESP-IDF, Docker, Embedded Linux**
 
-- 📫 How to reach me **siriusbrightstar@protonmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/siriusbrightstr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="siriusbrightstr" height="30" width="40" /></a>
   SiriusBrightstr
   
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="siriusbrightstar#8223" height="30" width="40" />siriusbrightstar#8223
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="siriusbrightstar#8223" height="30" width="40" />siriusbrightstar
 </p>
 
 <h3 align="left">I'm familiar with:</h3>
